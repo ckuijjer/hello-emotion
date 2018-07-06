@@ -1,0 +1,22 @@
+.my-label {
+  background-color: #0650d0;
+  border-radius: 4px;
+  color: #fff;
+  display: inline-block;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  line-height: 2.4;
+  margin: 8px;
+  padding: 0 24px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.my-label__hole {
+  background-color: #fff;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  border-radius: 8px;
+  margin-right: 16px;
+}
